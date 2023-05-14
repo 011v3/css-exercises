@@ -1,0 +1,19 @@
+.odd, 
+.cooler { background: lightcoral;
+        font-family: verdana, gill sans, sans-serif;
+}
+
+#first {
+        color: blue;
+        font-size: 36px;
+}
+
+.cooler {
+        font-size: 24px;
+}
+
+#second {
+        background: lightgreen;
+        font-size: 24px;
+        font-weight: bold;
+}
